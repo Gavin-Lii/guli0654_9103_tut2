@@ -17,6 +17,6 @@ This example from acko.net presents a structured 3D particle system arranged in 
 
 ![Orbit Control Example](assets/technique-1.jpg)
 
-This example demonstrates the use of orbitControl() in p5.js to enable interactive camera movement in a 3D environment. By using mouse input, users can rotate, pan, and zoom within the scene, allowing them to explore visual structures from different perspectives. This technique supports the imaging approach by enabling navigation through a spatial system rather than presenting a fixed viewpoint. It is particularly useful for creating interactive experiences where user input controls how information is revealed and understood within a 3D space.
+This technique uses orbitControl() in p5.js to enable interactive camera movement in a 3D environment. By using mouse input, users can rotate, pan, and zoom within the scene, allowing them to explore visual structures from different perspectives. This technique supports the imaging approach by enabling navigation through a spatial system rather than presenting a fixed viewpoint. It is particularly useful for creating interactive experiences where user input controls how information is revealed and understood within a 3D space.
 
 Example link: https://p5js.org/examples/3d-orbit-control/
